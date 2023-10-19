@@ -1,2 +1,2 @@
 # bank_application
-the project belongs to java servlet and mysql 
+The project belongs to Java servlet and MySQL 
